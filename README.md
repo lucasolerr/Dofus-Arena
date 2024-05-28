@@ -24,7 +24,7 @@ Dofus Battle Arena is a C project inspired by the tactical turn-based game Dofus
   ```
 2. Navigate to the project directory:
   ```bash
-  cd Dofus-Arena
+  cd projet-dofus-arena-ing1
   ```
 3. Build the project using CMake:
   ```bash
