@@ -33,7 +33,7 @@ Dofus Battle Arena is a C project inspired by the tactical turn-based game Dofus
   cmake ..
   make
   ```
-4. Usage
+## Usage
   1. Run the compiled program:
     ```bash
     ./DofusArena
