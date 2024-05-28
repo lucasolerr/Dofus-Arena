@@ -34,8 +34,8 @@ Dofus Battle Arena is a C project inspired by the tactical turn-based game Dofus
   make
   ```
 ## Usage
-  1. Run the compiled program:
-    ```bash
-    ./DofusArena
-    ```
-  2. Follow the on-screen instructions to start a game and control your characters.
+1. Run the compiled program:
+  ```bash
+  ./DofusArena
+  ```
+2. Follow the on-screen instructions to start a game and control your characters.
