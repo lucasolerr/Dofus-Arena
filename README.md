@@ -20,7 +20,7 @@ Dofus Battle Arena is a C project inspired by the tactical turn-based game Dofus
 ## Installation
 1. Clone the repository:
   ```bash
-  [git clone https://github.com/lucasolerr/Dofus-Arena.git](https://github.com/lucasolerr/projet-dofus-arena-ing1.git)
+  git clone https://github.com/lucasolerr/projet-dofus-arena-ing1.git
   ```
 2. Navigate to the project directory:
   ```bash
